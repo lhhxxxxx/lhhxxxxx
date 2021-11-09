@@ -6,6 +6,8 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lhhxxxxx&layout=compact" alt="Alex's Top Langs">
 </p>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lhhxxxxx&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 # My GitHub activities of last 31 days.
 
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
