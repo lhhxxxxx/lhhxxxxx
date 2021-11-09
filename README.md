@@ -6,10 +6,6 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lhhxxxxx&layout=compact" alt="lhhxxxxx's Top Langs">
 </p>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
-</a>
-
 # My GitHub activities of last 31 days.
 
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
