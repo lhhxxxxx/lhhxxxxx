@@ -9,4 +9,4 @@
 # My GitHub activities of last 31 days.
 
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-![lhhxxxxx's github activity graph](https://activity-graph.herokuapp.com/graph?username=lhhxxxxx&area=true&theme=github&custom_title=lhhxxxxx's%20Contribution%20Graph)
+![lhhxxxxx's github activity graph](https://activity-graph.herokuapp.com/graph?username=lhhxxxxx&area=true&theme=react-dark&custom_title=lhhxxxxx's%20Contribution%20Graph)
