@@ -1,9 +1,9 @@
 ## 📈 My GitHub Stats
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/?username=lhhxxxxx&theme=tokyonight&show_icons=true&count_private=true" alt="Alex's GitHub Stats">
+    <img src="https://github-readme-stats.vercel.app/api/?username=lhhxxxxx&show_icons=true&count_private=true" alt="Alex's GitHub Stats">
     <!-- Top Langs - https://github.com/anuraghazra/github-readme-stats -->
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lhhxxxxx&layout=compact&theme=tokyonight&hide=ejs,blade,html,css" alt="Alex's Top Langs">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lhhxxxxx&layout=compact" alt="Alex's Top Langs">
 </p>
 
 ## 👨‍💻 My GitHub activities of last 31 days.
