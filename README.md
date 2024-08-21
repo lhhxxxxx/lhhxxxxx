@@ -1,4 +1,4 @@
-# My GitHub Stats
+<h3>My GitHub Stats</h3>
 
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/?username=lhhxxxxx&show_icons=true&count_private=true" alt="lhhxxxxx's GitHub Stats">
@@ -6,12 +6,12 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lhhxxxxx&layout=compact" alt="lhhxxxxx's Top Langs">
 </p>
 
-# My GitHub Activity Graph Of Last 31 Days
+<h3>My GitHub Activity Graph</h3>
 
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-![lhhxxxxx's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lhhxxxxx&area=true&theme=minimal&custom_title=lhhxxxxx's%20Contribution%20Graph)
+![lhhxxxxx's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lhhxxxxx&area=true&theme=minimal&custom_title=lhhxxxxx's%20Activity%20Graph)
 
-# Projects I'm Involved In
+<h3>Projects I'm Involved In</h3>
 
 <table>
   <thead align="center">
