@@ -17,7 +17,7 @@
 ## 🧰 Tech
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,cs,java,kotlin,js,ts,html,css,pytorch,tensorflow,sklearn,opencv,anaconda,matlab,mysql,sqlite,mongodb,ros,cmake,bash,powershell,git,github,docker,linux,ubuntu,vscode,visualstudio,clion,idea,pycharm,rider,vim,latex,md,obsidian,ps,pr,svg&perline=14" alt="skills" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,cs,java,kotlin,js,ts,html,css,pytorch,tensorflow,sklearn,opencv,anaconda,matlab,mysql,sqlite,mongodb,ros,cmake,bash,powershell,git,github,docker,cloudflare,linux,ubuntu,vscode,visualstudio,clion,idea,pycharm,rider,vim,latex,md,obsidian,ps,pr,svg&perline=14" alt="skills" />
 </p>
 
 ## 📊 GitHub Stats
