@@ -24,15 +24,12 @@
 
 <p align="center">
   <img height="165" src="https://github-readme-stats-one-bice.vercel.app/api?username=lhhxxxxx&show_icons=true&include_all_commits=true&hide_border=true" alt="stats" />
-  <img height="165" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=lhhxxxxx&layout=compact&hide_border=true&langs_count=8" alt="top langs" />
-</p>
-<p align="center">
   <img height="165" src="https://streak-stats.demolab.com/?user=lhhxxxxx&hide_border=true" alt="streak" />
 </p>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=lhhxxxxx&area=true&hide_border=true&theme=minimal&custom_title=Contribution%20Activity" alt="activity" />
 </p>
-<!-- stats/top-langs 用社区镜像 one-bice（官方 github-readme-stats.vercel.app 常 503）；长期稳可自托管 Vercel 实例后替换域名 -->
+<!-- stats 用社区镜像 one-bice（官方 github-readme-stats.vercel.app 常 503）；长期稳可自托管 Vercel 实例后替换域名 -->
 
 ## 🌟 Projects I'm Involved In
 
