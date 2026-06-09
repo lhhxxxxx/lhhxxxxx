@@ -17,7 +17,7 @@
 ## 🧰 Tech
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,cpp,c,opencv,git,linux,docker,vscode,github" alt="skills" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,opencv,cpp,c,anaconda,latex,bash,cmake,git,github,docker,linux,vscode" alt="skills" />
 </p>
 
 ## 📊 GitHub Stats
