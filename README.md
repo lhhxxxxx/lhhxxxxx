@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm @lhhxxxxx 👋</h1>
 
 <p align="center">
-  <a href="https://github.com/lhhxxxxx"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=2F80ED&center=true&vCenter=true&width=480&lines=Developer+%26+open-source+contributor;Python+%C2%B7+C%2B%2B+%C2%B7+tooling;I+build+tools%2C+automation+%26+bots" alt="typing" /></a>
+  <a href="https://github.com/lhhxxxxx"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=2F80ED&center=true&vCenter=true&width=520&lines=Deep+learning+%26+computer+vision+%C2%B7+PyTorch;Robot+learning+%2F+embodied+AI;Developer+%C2%B7+open-source+contributor" alt="typing" /></a>
 </p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=lhhxxxxx&label=Profile%20views&color=2f80ed&style=flat" alt="views" />
@@ -9,15 +9,15 @@
 
 ## 👨‍💻 About
 
-- 🔧 I build developer tools, automation & bots
-- 🌱 Open-source contributor — love clean, fast code
-- 🧩 Comfortable across **Python** & **C++**
-- 💬 Ask me about: tooling, automation, OSS
+- 🤖 Deep learning & computer vision with **PyTorch**
+- 🦾 Interested in robot learning / embodied AI
+- 🔧 Also build developer tools, automation & bots
+- 🌱 Open-source contributor — **Python** & **C++**
 
 ## 🧰 Tech
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,git,linux,docker,vscode,github" alt="skills" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,cpp,c,opencv,git,linux,docker,vscode,github" alt="skills" />
 </p>
 
 ## 📊 GitHub Stats
