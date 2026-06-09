@@ -1,9 +1,9 @@
 <h3>My GitHub Stats</h3>
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/?username=lhhxxxxx&show_icons=true&count_private=true" alt="lhhxxxxx's GitHub Stats">
+    <img src="https://github-readme-stats-one-bice.vercel.app/api/?username=lhhxxxxx&show_icons=true&count_private=true" alt="lhhxxxxx's GitHub Stats">
     <!-- Top Langs - https://github.com/anuraghazra/github-readme-stats -->
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lhhxxxxx&layout=compact" alt="lhhxxxxx's Top Langs">
+    <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=lhhxxxxx&layout=compact" alt="lhhxxxxx's Top Langs">
 </p>
 
 <h3>My GitHub Activity Graph</h3>
