@@ -23,7 +23,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-one-bice.vercel.app/api?username=lhhxxxxx&show_icons=true&hide_border=true" alt="stats" />
+  <img height="165" src="https://github-readme-stats-one-bice.vercel.app/api?username=lhhxxxxx&show_icons=true&include_all_commits=true&hide_border=true" alt="stats" />
   <img height="165" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=lhhxxxxx&layout=compact&hide_border=true&langs_count=8" alt="top langs" />
 </p>
 <p align="center">
